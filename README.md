@@ -6,4 +6,8 @@ Link do vídeo do repositório: pendente
 
 Dataset para estudo: "Churn_Modelling - base.csv" ou "Churn_Modelling - base.zip"
 
+
 Dataset original (sem adaptações): https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling 
+
+
+
