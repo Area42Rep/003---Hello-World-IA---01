@@ -3,7 +3,7 @@
 
 Aqui você pode encontrar os materiais e links referenciados no vídeo do canal Area 42
 
-Link do vídeo do repositório: pendente
+Link do vídeo do repositório: [Youtube](https://youtu.be/ZLcdijeD1Fo)
 
 Dataset para estudo: "Churn_Modelling - base.csv" ou "Churn_Modelling - base.zip"
 
